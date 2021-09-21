@@ -1,0 +1,8 @@
+1 PUT status
+2 PUT history
+3 UPDATE status
+4 PUT price
+5 DELETE history
+5 PUT name
+6 DELETE status
+6 PUT card

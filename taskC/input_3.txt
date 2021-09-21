@@ -1,0 +1,5 @@
+2 2
+[2020-03-16 16:15:25] INFO Disk size
+[2020-03-16 23:59:59] ERROR Db fail
+[2020-03-17 00:00:00] ERROR Network
+[2020-03-17 00:00:01] ERROR Cant write

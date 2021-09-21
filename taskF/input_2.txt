@@ -1,0 +1,6 @@
+5 2
+status 4
+history 2
+history 10
+price 7
+status 3
